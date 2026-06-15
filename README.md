@@ -30,6 +30,17 @@ Jira Trigger
 
 This workflow helps teams stay updated on Jira activity without constantly checking Jira dashboards.
 
+## Architecture
+
+Jira
+↓
+n8n Workflow
+↓
+OpenAI
+↓
+Slack
+
+
 ## Demo
 
 Import the provided workflow JSON into n8n and configure:
@@ -37,6 +48,16 @@ Import the provided workflow JSON into n8n and configure:
 - Jira Credentials
 - Slack Credentials
 - OpenAI Credentials
+
+## Skills Demonstrated
+
+- API Integration
+- Workflow Automation
+- Event-Driven Architecture
+- AI Integration
+- Prompt Engineering
+- SaaS Platform Integration
+- Business Process Automation
 
 ## Author
 Dev Dand
